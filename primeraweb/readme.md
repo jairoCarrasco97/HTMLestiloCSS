@@ -5,4 +5,7 @@ Esta es una Web dedicada a una de mis pasiones, las motos. Es una simple muestra
 ![Captura de pantalla principal](./imagenes/principal.png)
 ![Captura de pantalla secundaria](./imagenes/kawasaki.png)
 
-
+<p align="center">
+  <img src="./imagenes/principal.png" alt="Captura de pantalla principal" width="200"/>
+  <img src="./imagenes/kawasaki.pngg" alt="Captura de pantalla secundaria" width="200"/>
+</p>
