@@ -3,7 +3,16 @@
 Esta es una Web dedicada a una de mis pasiones, las motos. Es una simple muestra de una interfaz sencilla con logotipo propio generado con Photoshop y retocado por IA.
 Aquí una muestra 👇 (Haz clic para ver una captura de vídeo)
 
+Incluye su propio logo generado con photoshop+IA con diferentes versiones del mismo
 
+<p align="center">
+  <img src="images/logo.png" alt="variante Logo web" width="400"/>
+  <img src="images/logo2.png" alt="variante Logo web" width="400"/>
+  <img src="images/logo3.png" alt="variante Logo web" width="400"/>
+  <img src="images/logo4.png" alt="variante Logo web" width="400"/>
+  <img src="images/logolargo.png" alt="variante Logo largo web" width="400"/>
+  <img src="images/logolargo2.png" alt="variante Logo largo web" width="400"/>
+</p>
 
 
 <p align="center">
