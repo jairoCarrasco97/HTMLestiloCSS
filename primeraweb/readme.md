@@ -1,7 +1,7 @@
 👋 hey!
 
 Esta es una Web dedicada a una de mis pasiones, las motos. Es una simple muestra de una interfaz sencilla con logotipo propio generado con Photoshop y retocado por IA.
-Aquí una muestra 👇 (Haz clic para ver una captura de vídeo)
+Aquí una muestra 👇 (Haz clic en cualquier imagen para ver una captura de vídeo Demo)
 
 Incluye su propio logo generado con photoshop+IA con diferentes versiones del mismo
 
