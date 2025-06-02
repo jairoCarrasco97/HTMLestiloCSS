@@ -6,12 +6,12 @@ Aquí una muestra 👇 (Haz clic para ver una captura de vídeo)
 Incluye su propio logo generado con photoshop+IA con diferentes versiones del mismo
 
 <p align="center">
-  <img src="images/logo.png" alt="variante Logo web" width="400"/>
-  <img src="images/logo2.png" alt="variante Logo web" width="400"/>
-  <img src="images/logo3.png" alt="variante Logo web" width="400"/>
-  <img src="images/logo4.png" alt="variante Logo web" width="400"/>
-  <img src="images/logolargo.png" alt="variante Logo largo web" width="400"/>
-  <img src="images/logolargo2.png" alt="variante Logo largo web" width="400"/>
+  <img src="imagenes/logo.png" alt="variante Logo web" width="400"/>
+  <img src="imagenes/logo2.png" alt="variante Logo web" width="400"/>
+  <img src="imagenes/logo3.png" alt="variante Logo web" width="400"/>
+  <img src="imagenes/logo4.png" alt="variante Logo web" width="400"/>
+  <img src="imagenes/logolargo.png" alt="variante Logo largo web" width="400"/>
+  <img src="imagenes/logolargo2.png" alt="variante Logo largo web" width="400"/>
 </p>
 
 
