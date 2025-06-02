@@ -19,7 +19,7 @@ Incluye su propio logo generado con photoshop+IA con diferentes versiones del mi
 
 <p align="center">
   <a href="./imagenes/captura.mp4">
-  <img src="./imagenes/principal.png" alt="Captura de pantalla principal" width="600"/>
-  <img src="./imagenes/kawasaki.png" alt="Captura de pantalla secundaria" width="600"/>
+  <img src="./imagenes/principal.png" alt="Captura de pantalla principal" width="800"/>
+  <img src="./imagenes/kawasaki.png" alt="Captura de pantalla secundaria" width="800"/>
   </a>
 </p>
